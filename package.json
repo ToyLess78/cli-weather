@@ -1,0 +1,26 @@
+{
+  "name": "cli-weather",
+  "version": "1.0.0",
+  "description": "CLI for getting weather",
+  "main": "index.js",
+  "bin": "./index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "cli",
+    "weather"
+  ],
+  "author": "ToyLess78",
+  "license": "ISC",
+  "homepage": "https://github.com/ToyLess78",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ToyLess78/cli-weather"
+  },
+  "bugs": {
+    "url": "https://github.com/ToyLess78",
+    "email": "toyless@gmail.com"
+  }
+}
